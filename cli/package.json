@@ -64,7 +64,7 @@
     "identity-obj-proxy": "3.0.0",
     "jest": "26.6.0",
     "node-sass": "6.0.1",
-    "ora": "5.4.1",
+    "ora": "6.0.1",
     "postcss-nested": "5.0.6",
     "postcss-simple-vars": "6.0.3",
     "ramda": "0.27.1",
