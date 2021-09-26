@@ -4805,10 +4805,10 @@ colord@^2.6:
   resolved "https://registry.yarnpkg.com/colord/-/colord-2.7.0.tgz#706ea36fe0cd651b585eb142fe64b6480185270e"
   integrity sha512-pZJBqsHz+pYyw3zpX6ZRXWoCHM1/cvFikY9TV8G3zcejCaKE0lhankoj8iScyrrePA8C7yJ5FStfA9zbcOnw7Q==
 
-colorette@2.0.10:
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/colorette/-/colorette-2.0.10.tgz#0cc871faead8b07227c9ad784f27a0d71f3794e2"
-  integrity sha512-tQ7Prvd+zU6EUsQVXJNqxJUZdZ4btI34jlp/W1N/bNyWsY55dxe2oSg+ss3COV4vKbWLVlwLJt5xMSCuZ3R4og==
+colorette@2.0.11:
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/colorette/-/colorette-2.0.11.tgz#3b4cf8407edb24dd54fdbfd350f5ed252abbc64a"
+  integrity sha512-ZqwF8QRKzkhpr6aOvqzsZgtdOh+ItZBrbHDJ3pEAOoLr79oVSRxviVKDHVvrBmUhK5NcGRT9RATQknOan52UXQ==
 
 colorette@^1.2.1, colorette@^1.2.2:
   version "1.2.2"
