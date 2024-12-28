@@ -33,7 +33,7 @@
     "eslint-plugin-sonarjs": "0.16.0",
     "husky": "4.3.8",
     "jscpd": "3.5.10",
-    "lint-staged": "13.0.3",
+    "lint-staged": "15.3.0",
     "monoreact": "*",
     "prettier": "2.7.1",
     "yarn": "1.22.19"
