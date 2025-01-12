@@ -61,7 +61,7 @@
     "monoreact": "*",
     "prettier": "2.7.1",
     "prop-types": "15.8.1",
-    "stylelint": "15.10.3",
+    "stylelint": "16.13.0",
     "stylelint-config-recommended": "9.0.0",
     "tslib": "2.4.1",
     "typescript": "4.8.4",
